@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [eWoner](https://ewoner.com/)
 
-- 👨‍💻 All of my projects are available at [https://crext3n.netlify.app/](https://crext3n.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://crext3n.xyz/](https://crext3n.xyz/)
 
-- 📫 How to reach me **beyazidbesler@gmail.com**
+- 📫 How to reach me **iletisim@crext3n.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

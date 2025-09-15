@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://crext3n.xyz/](https://crext3n.xyz/)
 
-- 📫 How to reach me **iletisim@crext3n.xyz**
+- 📫 How to reach me **beyazitbesler@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

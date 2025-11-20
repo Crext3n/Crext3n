@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#4A90E2;">Ali Beyazıd (Crext3n) BESLER</span></h1>
 <p align="center">
-  I enjoy constantly learning new things and developing projects with what I have learned.  Currently building <a href="https://ewoner.com/">eWoner</a>.
+  I enjoy constantly learning new things and developing projects with what I have learned.
 </p>
 
 <p align="center">
